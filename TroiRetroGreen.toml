@@ -116,8 +116,8 @@
 # "ui.bufferline.active" = { fg = "winter_sky", bg = "twilight_blue" }                     # bufferline active tab
 # "ui.bufferline.background" = { bg = "pitch_black" }                                      # bufferline background
 
-"ui.selection" = { bg = "faint_green" }                                                    # slave selections in the editing area
-"ui.selection.primary" = { bg = "faint_green" }                                          # primary selection in the editing area
+"ui.selection" = { bg = "#faint_green" }                                                    # slave selections in the editing area
+"ui.selection.primary" = { bg = "#444444" }                                                 # primary selection in the editing area
 
 "ui.cursor" = { modifiers = ["reversed"] }                                                 # only if "ui.cursor.primary.normal" isn't set
 # "ui.cursor.normal" = { fg = "winter_sky", bg = "twilight_blue" }                         # slave cursor block in normal mode
